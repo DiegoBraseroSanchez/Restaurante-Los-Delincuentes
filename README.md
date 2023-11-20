@@ -7,7 +7,7 @@ Importe diferentes modulos para dar efectos como por ejemplo frame-motion y unos
 Las imagenes en gran parte son propias y otras de internet.
 Para dar forma de estrella a las imagenes use un editor de internet con dicha forma.
 
-Esta pagina no es 100% idea mia, esta basada en un diseño ya creada anteriormente y yo le dado mi toque :).
+Esta pagina no es 100% idea mia, esta basada en un diseño ya creado anteriormente y yo le dado mi toque :).
 
 ![foto-1](https://github.com/DiegoBraseroSanchez/Restaurante-Los-Delincuentes/assets/129300180/904542f5-4da3-48ba-90e1-aab2565d83e2)
 ![foto-2](https://github.com/DiegoBraseroSanchez/Restaurante-Los-Delincuentes/assets/129300180/5462a049-4418-442b-bdeb-592612dc803a)
