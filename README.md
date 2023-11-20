@@ -1,4 +1,6 @@
 # Restaunrante ¡Los Delincuentes!
+Para ver la web: https://restaurante-los-delincuentes.netlify.app/
+
 Esta pagina se basa en la creacion de una pagina web de un restaurante, en ella pude trabajar con React, Tailwind y CSS.
 
 Pagina 100% Responsive.
